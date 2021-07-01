@@ -127,7 +127,7 @@ const questions = [
         type: 'list',
         message: 'What license will be used?',
         name: 'license',
-        choices: ['MIT', 'CSS', 'JavaScript', 'SQL']
+        choices: ['Apache 2.0', 'GNU GPL v3', 'GNU AGPL v3', 'MIT', 'Mozilla Public License 2.0']
     }
 ];
 
