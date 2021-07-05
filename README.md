@@ -20,7 +20,7 @@
   ## Usage
   [App usage example]("https://drive.google.com/file/d/1A0BYBOkgapmAb2hi-3_S2uTj3H_CDGw-/view")
 
-  ![Node Screenshot](/assets/screenshots/node_screenshot.png?raw=true)
+  ![Node Screenshot](./assets/screenshots/node_screenshot.png?raw=true)
 
   
   ## License
