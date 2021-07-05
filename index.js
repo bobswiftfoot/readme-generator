@@ -66,14 +66,14 @@ const questions = [
     {
         type: 'input',
         name: 'contributing',
-        message: 'Enter how to contribute to your project (Required)',
+        message: 'Enter contributers to your project (Required)',
         validate: contributeInput => 
         {
             if (contributeInput)
                 return true;
             else
             {
-                console.log("Please enter how to contribute to your project!");
+                console.log("Please enter contributers to your project!");
                 return false;
             }
         }
