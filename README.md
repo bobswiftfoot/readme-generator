@@ -18,9 +18,9 @@
   You will need Node.js. Use "npm install" to install inquirer. Then use "node index.js" to run.
 
   ## Usage
-  [App usage example]("https://drive.google.com/file/d/1A0BYBOkgapmAb2hi-3_S2uTj3H_CDGw-/view")
+  [App usage example](https://drive.google.com/file/d/1A0BYBOkgapmAb2hi-3_S2uTj3H_CDGw-/view)
 
-  ![Node Screenshot](./assets/screenshots/node_screenshot.png?raw=true)
+  ![Node Screenshot](./assets/screenshots/node_screenshot.PNG)
 
   
   ## License
